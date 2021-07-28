@@ -1,0 +1,1 @@
+{"uuid":"99b7f85f-a17f-4aba-a8bb-7f7df4f0bc7e","name":"com.lemon.testcases.investFlowTest","children":["9d6e7ece-45a6-432d-a9e0-d11b226204bf"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1624157784804,"stop":1624157787659}],"afters":[],"links":[],"start":1624157756323,"stop":1624157793339}

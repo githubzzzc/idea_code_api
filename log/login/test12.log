@@ -1,0 +1,30 @@
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "13323231610",
+    "pwd": "E12345682"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Sun, 20 Jun 2021 02:44:28 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1001,
+    "msg": "账号信息错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}

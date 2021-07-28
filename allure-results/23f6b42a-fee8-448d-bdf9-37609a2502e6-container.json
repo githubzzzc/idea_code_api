@@ -1,0 +1,1 @@
+{"uuid":"23f6b42a-fee8-448d-bdf9-37609a2502e6","name":"com.lemon.testcases.RegisterTest","children":["fe35f3bb-3736-45cf-b28a-aac081f33d91"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1624157791842,"stop":1624157792315}],"afters":[],"links":[],"start":1624157756323,"stop":1624157793337}

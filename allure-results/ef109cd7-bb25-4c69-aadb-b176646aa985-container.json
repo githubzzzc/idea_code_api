@@ -1,0 +1,1 @@
+{"uuid":"ef109cd7-bb25-4c69-aadb-b176646aa985","name":"com.lemon.testcases.AddloanTest","children":["91dc4e7c-7ca4-4fdd-9fcc-a2f12eb2e6b8"],"befores":[{"name":"steUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1624119794720,"stop":1624119806221}],"afters":[],"links":[],"start":1624119793142,"stop":1624119807116}
